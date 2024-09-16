@@ -7,4 +7,4 @@ This userscript replaces the default YouTube logo with a custom SVG that mimics 
 
 ### How to use
 - This userscript requires a userscript manager extension to be installed in your browser, like: [Violentmonkey](https://violentmonkey.github.io/)(recommended), [Tampermonkey](https://www.tampermonkey.net/) or [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/).
-- You can then import the usersctipt into the manager ot install directly from the GreasyFork: **[FuckYou logo on YouTube - GreastFork page](https://greasyfork.org/en/scripts/508696-you-logo-on-youtube)**.
+- You can then import the userscript into the manager or install it directly from GreasyFork: **[FuckYou logo on YouTube - GreasyFork page](https://greasyfork.org/en/scripts/508696-you-logo-on-youtube)**.
